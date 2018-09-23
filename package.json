@@ -1,7 +1,7 @@
 {
     "name": "sql-teradata",
     "displayName": "sql-teradata",
-    "description": "sql extended version for Teradata plus other tools",
+    "description": "sql language support extended version for Teradata plus other tools",
     "version": "0.0.1",
     "publisher": "congomon",
     "engines": {
@@ -19,7 +19,7 @@
         }],
         "grammars": [{
             "language": "sql",
-            "scopeName": "source.sql",
+            "scopeName": "source.sql.teradata",
             "path": "./syntaxes/sql-teradata.tmLanguage.json"
         }]
     }

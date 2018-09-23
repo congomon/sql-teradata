@@ -1,4 +1,6 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.gitattributes
+syntaxes/sql-teradata.tmLanguage.bk
 vsc-extension-quickstart.md
