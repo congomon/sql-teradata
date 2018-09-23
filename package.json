@@ -1,0 +1,26 @@
+{
+    "name": "sql-teradata",
+    "displayName": "sql-teradata",
+    "description": "sql extended version for Teradata plus other tools",
+    "version": "0.0.1",
+    "publisher": "congomon",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "sql",
+            "aliases": ["sql-teradata"],
+            "extensions": [".sql",".ddl",".dml",".bteq"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "sql",
+            "scopeName": "source.sql",
+            "path": "./syntaxes/sql-teradata.tmLanguage.json"
+        }]
+    }
+}
