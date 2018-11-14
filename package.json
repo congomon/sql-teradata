@@ -1,7 +1,7 @@
 {
     "name": "sql-teradata",
     "displayName": "sql-teradata",
-    "description": "sql language support extended version for Teradata plus other tools",
+    "description": "SQL language support extended version for Teradata plus other tools",
     "version": "0.2.0",
     "publisher": "congomon",
     "engines": {
