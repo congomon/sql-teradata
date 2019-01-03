@@ -2,8 +2,9 @@
     "name": "sql-teradata",
     "displayName": "sql-teradata",
     "description": "SQL language support extended version for Teradata plus other tools",
-    "version": "0.4.0",
+    "version": "0.3.0",
     "publisher": "congomon",
+    "repository": "https://github.com/congomon/sql-teradata",
     "engines": {
         "vscode": "^1.27.0"
     },
