@@ -10,4 +10,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.3.0]
 ### Added
-- Added addition keywords for Teradata
+- Added additional keywords for Teradata
